@@ -83,7 +83,7 @@ The analysis filters for:
 - Among the skill-linked roles analyzed, yearly salaries ranged from approximately **$184K to $256K**.
 - The highest salary observed was approximately **$255,830** for an Associate Director - Data Insights position at AT&T.
 
-Highest Paying Remote Data Analyst Roles![alt text](<Image Sep 21, 2026, 05_38_21 PM.png>)
+Highest Paying Remote Data Analyst Roles![alt text](<assets/Image Sep 21, 2026, 05_38_21 PM.png>)
 
 ---
 
@@ -114,7 +114,7 @@ The next query takes the highest-paying Data Analyst positions and joins them wi
 - **Python and Tableau are also highly prevalent**, appearing in approximately 88% and 75% of these positions.
 - High-paying analyst positions frequently combine traditional analytics with **programming, visualization, cloud platforms, and modern data infrastructure**.
 
-Most Common Skills in Top-Paying Data Analyst Roles![alt text](<Image Sep 21, 2026, 05_35_44 PM (1).png>)
+Most Common Skills in Top-Paying Data Analyst Roles![alt text](<assets/Image Sep 21, 2026, 05_35_44 PM (1).png>)
 
 ---
 
@@ -136,7 +136,7 @@ The query uses:
 
 Top 5 In-Demand Data Science Skills
 ### Key Findings
-![alt text](<Image Sep 21, 2026, 05_56_58 PM.png>)
+![alt text](<assets/Image Sep 21, 2026, 05_56_58 PM.png>)
 The results show that **Python** is the most in-demand skill in Data Science by a wide margin, appearing in **114,016** job postings. It is followed by **SQL** with **79,174** postings and **R** with **59,754**, confirming that programming and data handling skills are the foundation of Data Science roles.
 
 Traditional analytics tools still remain relevant. **SAS** appears in **29,642** postings, while **Tableau** appears in **29,513**, showing that employers still value statistical analysis platforms and data visualization tools alongside modern programming languages.
@@ -225,7 +225,7 @@ demand_count > 15
 - **Kafka offers the strongest salary premium among the filtered high-demand skills**, averaging approximately $130K, although its demand is lower at 40 postings.
 - **Databricks, Airflow, GCP, Spark, and Snowflake show a strong balance between demand and compensation**, highlighting the value of modern cloud and data-engineering technologies.
 
-Optimal Skills - Demand vs Average Salary![alt text](<Image Sep 21, 2026, 05_39_22 PM.png>)
+Optimal Skills - Demand vs Average Salary![alt text](<assets/Image Sep 21, 2026, 05_39_22 PM.png>)
 
 ### Why This Analysis Is Important
 
